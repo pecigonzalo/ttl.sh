@@ -22,7 +22,7 @@
     "redis": "^2.8.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
-    "simple-oauth2": "^2.2.1",
+    "simple-oauth2": "^4.2.0",
     "source-map-support": "^0.5.10",
     "ts-express-decorators": "^5.14.1",
     "ts-log-debug": "^5.1.0",
